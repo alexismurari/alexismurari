@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on [VideoEditScheduler](https://github.com/alexismurari/VideoEditScheduler)
 
-- 👨‍💻Learn more about my projects at [https://alexismurari.github.io/portfolio/](https://alexismurari.github.io/portfolio/)
+- 👨‍💻 Learn more about my projects at [https://alexismurari.github.io/portfolio/](https://alexismurari.github.io/portfolio/)
 
 - 📫 Connect with me! [LinkedIn](https://www.linkedin.com/in/alexismurari/)
